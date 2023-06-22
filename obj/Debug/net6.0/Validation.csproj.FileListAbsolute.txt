@@ -1,0 +1,17 @@
+D:\Projects\Temp\Validation\bin\Debug\net6.0\Validation.exe
+D:\Projects\Temp\Validation\bin\Debug\net6.0\Validation.deps.json
+D:\Projects\Temp\Validation\bin\Debug\net6.0\Validation.runtimeconfig.json
+D:\Projects\Temp\Validation\bin\Debug\net6.0\Validation.dll
+D:\Projects\Temp\Validation\bin\Debug\net6.0\Validation.pdb
+D:\Projects\Temp\Validation\bin\Debug\net6.0\FluentValidation.dll
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.csproj.AssemblyReference.cache
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.AssemblyInfoInputs.cache
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.AssemblyInfo.cs
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.csproj.CoreCompileInputs.cache
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.csproj.CopyComplete
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.dll
+D:\Projects\Temp\Validation\obj\Debug\net6.0\refint\Validation.dll
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.pdb
+D:\Projects\Temp\Validation\obj\Debug\net6.0\Validation.genruntimeconfig.cache
+D:\Projects\Temp\Validation\obj\Debug\net6.0\ref\Validation.dll
